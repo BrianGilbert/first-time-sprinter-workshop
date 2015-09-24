@@ -63,7 +63,6 @@ Note:
 
 
 
-
 ## Issue queue
 
 Note:
@@ -95,32 +94,54 @@ Note:
 <!-- .element: class="heading" -->
 
 Note:
--
+-Besides issue queues our primary communication method is Internet Relay Chat.
+-Nicknames: good to match d.o username
 
 
 
+<!-- .slide: data-background="custom/images/amsterdam-webchick.jpg" data-state="show-header" data-header="Photo CC-BY Boris Baldinger https://flic.kr/p/paCRg4" -->
+## IRC
+<!-- .element: class="heading" -->
+
+<a href="irc://freenode.net/ drupal-contribute">#drupal-contribute</a>
+
+Note:
+-The channels you’ll need today are
+
+
+<!-- .slide: data-background="custom/images/sublime-text.png" data-state="show-header" data-header="" -->
 ## Editor
 
 Note:
--
+-Sublime Text 3
+-Code highlighting
+-Cross platform
 
 
-
+<!-- .slide: data-background="custom/images/git1.png" data-state="show-header" data-header="" -->
 ## git
 
 Note:
 -Git is the version control system of choice for the Drupal project
+
+
+
+<!-- .slide: data-background="custom/images/git2.png" data-state="show-header" data-header="" -->
+## git
+
+Note:
 -It allows us to track all the changes, merge peoples work, easily see changes & history
 
 
 
+<!-- .slide: data-background="custom/images/git3.png" data-state="show-header" data-header="" -->
 ## git
 
 Note:
 -Routine commands are almost all copy/paste
 
 
-
+<!-- .slide: data-background="custom/images/git4.png" data-state="show-header" data-header="" -->
 ## git
 
 Note:
