@@ -23,16 +23,21 @@ Note:
 
 
 
-## Presenter
+## Presenters
 
-<a href="https://www.drupal.org/u/user"><i class="fa fa-drupal"></i> user</a>
+<a href="https://www.drupal.org/u/realityloop"><i class="fa fa-drupal">realityloop</i> user</a>
 
-<a href="https://twitter.com/username"><i class="fa fa-twitter"></i> twitter</a>
+<a href="https://twitter.com/BrianGilbert_"><i class="fa fa-twitter">BrianGilbert_</i> twitter</a>
+
+
+<a href="https://www.drupal.org/u/alimac"><i class="fa fa-drupal">alimac</i> user</a>
+
+<a href="https://twitter.com/czaroxiejka"><i class="fa fa-twitter">czaroxiejka</i> twitter</a>
 
 Note:
 
 
-
+<!-- .slide: data-background="custom/images/bt-sync-logo.png" data-state="show-header" data-header="" -->
 ## Introducing BTSync
 <!-- .element: class="heading" -->
 ### [drupal.org/tools](https://www.drupal.org/tools)
